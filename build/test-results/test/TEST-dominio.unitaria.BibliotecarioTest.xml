@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="dominio.unitaria.BibliotecarioTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2018-05-02T23:42:06" hostname="PSETPC0JWD4Y" time="0.016">
+  <properties/>
+  <testcase name="fechaMaximaDePrestamoDebeSerElNueveDeJunioCuandoFechaDeSolicitudEs24DeMayoTest" classname="dominio.unitaria.BibliotecarioTest" time="0.007"/>
+  <testcase name="debeRetornarStringVacioCuandoNoExistanNumeros" classname="dominio.unitaria.BibliotecarioTest" time="0.0"/>
+  <testcase name="esPalindromoDebeRetornarTrue" classname="dominio.unitaria.BibliotecarioTest" time="0.0"/>
+  <testcase name="esPalindromoDebeRetornarFalse" classname="dominio.unitaria.BibliotecarioTest" time="0.0"/>
+  <testcase name="sumarDigitosDebeRetornarCeroCuandoNoExistanNumerosTest" classname="dominio.unitaria.BibliotecarioTest" time="0.001"/>
+  <testcase name="esPrestadoTest" classname="dominio.unitaria.BibliotecarioTest" time="0.001"/>
+  <testcase name="debeRetornarStringConSoloDigitosCuandoExista" classname="dominio.unitaria.BibliotecarioTest" time="0.001"/>
+  <testcase name="fechaMaximaDePrestamoDebeSerElDoceDeJunioCuandoFechaDeSolicitudEs26DeMayoTest" classname="dominio.unitaria.BibliotecarioTest" time="0.0"/>
+  <testcase name="sumarDigitosTest" classname="dominio.unitaria.BibliotecarioTest" time="0.001"/>
+  <testcase name="prestarDebeRetornarExcepcionCuandoEsPalindromo" classname="dominio.unitaria.BibliotecarioTest" time="0.002"/>
+  <testcase name="prestarLibroDebeRetornarExcepcionCuandoNoExista" classname="dominio.unitaria.BibliotecarioTest" time="0.001"/>
+  <testcase name="libroNoPrestadoTest" classname="dominio.unitaria.BibliotecarioTest" time="0.0"/>
+  <testcase name="prestarLibroNoDebeGenerarErrorCuandoLibroExiste" classname="dominio.unitaria.BibliotecarioTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
